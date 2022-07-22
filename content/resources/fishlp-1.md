@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-224j-carrier-systems-fall-2003/09669a5944cb4e3342e7fa546063c259_fishlp.xls
+file: /courses/1-224j-carrier-systems-fall-2003/09669a5944cb4e3342e7fa546063c259_fishlp.xls
 file_type: application/msword
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection

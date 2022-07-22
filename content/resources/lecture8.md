@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-224j-carrier-systems-fall-2003/48523b8b4f0d4505bb6597f4ca898470_lecture8.pdf
+file: /courses/1-224j-carrier-systems-fall-2003/48523b8b4f0d4505bb6597f4ca898470_lecture8.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

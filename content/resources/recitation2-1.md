@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-224j-carrier-systems-fall-2003/61d11cd4b473eb454d72aedc04251a18_recitation2.pdf
+file: /courses/1-224j-carrier-systems-fall-2003/61d11cd4b473eb454d72aedc04251a18_recitation2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
