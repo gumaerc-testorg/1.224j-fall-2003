@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Transportation Operations, Planning And Control: Carrier Systems ([PDF]({{< baseurl >}}/resources/lecture1))
+Transportation Operations, Planning And Control: Carrier Systems ({{% resource_link 13d31ada-7024-9aae-d6a8-969c63fdaea9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Transportation Operations, Planning And Control: Carrier Systems ([PDF]({{< ba
 2-3
 {{< tdclose >}}
 {{< tdopen >}}
-Linear Programming ([PDF - 1.1 MB]({{< baseurl >}}/resources/lecture2_3))
+Linear Programming ({{% resource_link e521d334-f63e-5af5-6a05-7469802b3b5a "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Linear Programming ([PDF - 1.1 MB]({{< baseurl >}}/resources/lecture2_3))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Integer Programming ([PDF]({{< baseurl >}}/resources/lecture3_ip_intro))
+Integer Programming ({{% resource_link d3da30e3-058f-9c86-db44-3d74d8a587b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ Integer Programming ([PDF]({{< baseurl >}}/resources/lecture3_ip_intro))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Network Problems ([PDF]({{< baseurl >}}/resources/lecture4))
+Network Problems ({{% resource_link baf36ccf-7023-699e-f410-50aebcaf63bc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Freight Transportation III: Transportation Management
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Transit Vehicle Scheduling: Problem Description ([PDF]({{< baseurl >}}/resources/lecture8))
+Transit Vehicle Scheduling: Problem Description ({{% resource_link 48523b8b-4f0d-4505-bb65-97f4ca898470 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +91,7 @@ Transit Vehicle Scheduling: Problem Description ([PDF]({{< baseurl >}}/resources
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Transit Crew Scheduling ([PDF]({{< baseurl >}}/resources/lecture9))
+Transit Crew Scheduling ({{% resource_link c0639ece-1644-a78f-5e29-ca64b0f54ef5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ Transit Crew Scheduling ([PDF]({{< baseurl >}}/resources/lecture9))
 10-11
 {{< tdclose >}}
 {{< tdopen >}}
-Airline Crew Scheduling ([PDF]({{< baseurl >}}/resources/lecture10))
+Airline Crew Scheduling ({{% resource_link 132da550-d776-66a7-4f54-17e3f7dc4d1a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +109,7 @@ Airline Crew Scheduling ([PDF]({{< baseurl >}}/resources/lecture10))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Real-time Operations Control ([PDF]({{< baseurl >}}/resources/lec12))
+Real-time Operations Control ({{% resource_link 51d3da89-ba37-5519-213a-4178c28e622f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ Real-time Operations Control ([PDF]({{< baseurl >}}/resources/lec12))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Synthesis and Review ([PDF]({{< baseurl >}}/resources/lec13))
+Synthesis and Review ({{% resource_link e90ac293-948f-076f-0653-7ff150024929 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

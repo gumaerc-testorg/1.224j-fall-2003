@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -45,7 +46,7 @@ L2
 Linear Programming Overview
 {{< tdclose >}}
 {{< tdopen >}}
-Grier, Nathaniel. "Formulating a Mathematical Program: An Overview." 2001. (Cambridge, MA: 1.224 Carrier Systems Tutorial, MIT). ([PDF]({{< baseurl >}}/resources/readings3))
+Grier, Nathaniel. "Formulating a Mathematical Program: An Overview." 2001. (Cambridge, MA: 1.224 Carrier Systems Tutorial, MIT). ({{% resource_link 5f0219f4-66a9-6939-33dd-335e1fbb350a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -195,7 +196,7 @@ Part 3: Airline Routing and Crew Scheduling
 {{< tdopen >}}
 Barnhart, C., A. M. Cohn, E. L. Johnson, D. Klabjan, G. L. Nemhauser, and P. H. Vance. "Airline Crew Scheduling." In _Handbook of Transportation Science_. 2nd ed. Edited by Randolph W. Hall. Norwell, MA: Kluwer Academic Publishers, November 2001.  
   
-Cohn, A. "Making the Trade-off Between Optimality and Tractability When Solving Large Transportation Models: A Case Study on the Airline Industry." 2000. (Cambridge, MA: 1.224 Carrier Systems Case Study, MIT). ([PDF]({{< baseurl >}}/resources/readings6))
+Cohn, A. "Making the Trade-off Between Optimality and Tractability When Solving Large Transportation Models: A Case Study on the Airline Industry." 2000. (Cambridge, MA: 1.224 Carrier Systems Case Study, MIT). ({{% resource_link 2811593f-1d55-44d7-3567-8ef4e32cf632 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
