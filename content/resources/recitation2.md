@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-224j-carrier-systems-fall-2003/bff6ae0f72aa82d79fcdd575d8c7b91b_recitation2.xls
+file_size: 10752
 file_type: application/msword
 learning_resource_types:
 - Recitations

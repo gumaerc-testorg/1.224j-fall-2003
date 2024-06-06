@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-224j-carrier-systems-fall-2003/55cafd5418b23b65b9cd59d4011561b1_fishlp.pdf
+file_size: 34766
 file_type: application/pdf
 learning_resource_types:
 - Recitations
