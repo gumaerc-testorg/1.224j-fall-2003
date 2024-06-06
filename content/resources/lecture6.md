@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-224j-carrier-systems-fall-2003/52eea9eb2e48e4195fc1e9111ad690f1_lecture6.pdf
+file_size: 1202325
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
