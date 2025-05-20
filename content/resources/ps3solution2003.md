@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-224j-carrier-systems-fall-2003/141842fec456e1b770b5c4da557e3d9a_ps3solution2003.pdf
+file: /courses/1-224j-carrier-systems-fall-2003/141842fec456e1b770b5c4da557e3d9a_ps3solution2003.pdf
 file_size: 229530
 file_type: application/pdf
 learning_resource_types:

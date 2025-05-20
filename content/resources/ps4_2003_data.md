@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for problem set 4
-file: /ol-ocw-studio-app/courses/1-224j-carrier-systems-fall-2003/5c7874a9dad3cc556ed3636d37924eef_ps4_2003_data.xls
+file: /courses/1-224j-carrier-systems-fall-2003/5c7874a9dad3cc556ed3636d37924eef_ps4_2003_data.xls
 file_size: 965120
 file_type: application/msword
 learning_resource_types:
