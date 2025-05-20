@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Spreadsheet component of solution to problem set 2.
-file: /ol-ocw-studio-app/courses/1-224j-carrier-systems-fall-2003/8644345327479786647f5354b3b8e5c9_ps2_solution.xls
+file: /courses/1-224j-carrier-systems-fall-2003/8644345327479786647f5354b3b8e5c9_ps2_solution.xls
 file_size: 10752
 file_type: application/msword
 learning_resource_types:
