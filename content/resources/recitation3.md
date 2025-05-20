@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-224j-carrier-systems-fall-2003/49eff26c336fff3dece0a9219e635ef4_recitation3.pdf
+file: /courses/1-224j-carrier-systems-fall-2003/49eff26c336fff3dece0a9219e635ef4_recitation3.pdf
 file_size: 83447
 file_type: application/pdf
 learning_resource_types:

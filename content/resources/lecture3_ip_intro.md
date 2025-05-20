@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-224j-carrier-systems-fall-2003/d3da30e3058f9c86db443d74d8a587b7_lecture3_ip_intro.pdf
+file: /courses/1-224j-carrier-systems-fall-2003/d3da30e3058f9c86db443d74d8a587b7_lecture3_ip_intro.pdf
 file_size: 193294
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-224j-carrier-systems-fall-2003/a9b9ddfc5eb0f3ae0680063857aeff9f_lecture5.pdf
+file: /courses/1-224j-carrier-systems-fall-2003/a9b9ddfc5eb0f3ae0680063857aeff9f_lecture5.pdf
 file_size: 776479
 file_type: application/pdf
 learning_resource_types:
