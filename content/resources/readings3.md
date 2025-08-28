@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Prepared by: Nathaniel Grier'
-file: /courses/1-224j-carrier-systems-fall-2003/5f0219f466a9693933dd335e1fbb350a_readings3.pdf
+file: /ol-ocw-studio-app/courses/1-224j-carrier-systems-fall-2003/5f0219f466a9693933dd335e1fbb350a_readings3.pdf
 file_size: 101186
 file_type: application/pdf
 learning_resource_types:
