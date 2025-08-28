@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Modelling a Linear Programming Problem and its Solution in Excel.
-file: /courses/1-224j-carrier-systems-fall-2003/a3ea475993250d4fa92970013fa78682_recitation1.pdf
+file: /ol-ocw-studio-app/courses/1-224j-carrier-systems-fall-2003/a3ea475993250d4fa92970013fa78682_recitation1.pdf
 file_size: 99748
 file_type: application/pdf
 learning_resource_types:
